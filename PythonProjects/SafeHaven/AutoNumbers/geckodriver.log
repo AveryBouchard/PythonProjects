@@ -1,0 +1,1109 @@
+1640025288876	geckodriver	INFO	Listening on 127.0.0.1:53339
+1640025291901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53340" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileQ7YyuH"
+*** You are running in headless mode.
+1640025311769	geckodriver	INFO	Listening on 127.0.0.1:61070
+1640025314801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61071" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofile3RcaC9"
+*** You are running in headless mode.
+1640025315191	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofile3RcaC9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61071/devtools/browser/47f5a5d9-4e1a-46fd-9ecd-867fb8f916ef
+1640025316212	Marionette	INFO	Listening on port 61076
+1640025316349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofile3RcaC9\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofile3RcaC9\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofile3RcaC9\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofile3RcaC9\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofile3RcaC9\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofile3RcaC9\thumbnails) because it does not exist
+default-search: No addons in our list are installed.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileZ0LnG8\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileZ0LnG8\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileZ0LnG8\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileZ0LnG8\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileZ0LnG8\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileZ0LnG8\thumbnails) because it does not exist
+dren of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileDlytvy\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileDlytvy\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileDlytvy\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileDlytvy\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileDlytvy\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileDlytvy\thumbnails) because it does not exist
+dren of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofile8F4Grh\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofile8F4Grh\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofile8F4Grh\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofile8F4Grh\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofile8F4Grh\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofile8F4Grh\thumbnails) because it does not exist
+dren of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofiletMiqW7\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofiletMiqW7\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofiletMiqW7\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofiletMiqW7\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofiletMiqW7\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofiletMiqW7\thumbnails) because it does not exist
+ting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileoxsowJ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileoxsowJ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileoxsowJ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileoxsowJ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileoxsowJ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileoxsowJ\thumbnails) because it does not exist
+ting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileKY91eA\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileKY91eA\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileKY91eA\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileKY91eA\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileKY91eA\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileKY91eA\thumbnails) because it does not exist
+ting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileARLGBr\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileARLGBr\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileARLGBr\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileARLGBr\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileARLGBr\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileARLGBr\thumbnails) because it does not exist
+ting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileuERYQb\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileuERYQb\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileuERYQb\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileuERYQb\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileuERYQb\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileuERYQb\thumbnails) because it does not exist
+ng: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640051970808	Marionette	INFO	Stopped listening on port 60811640051972304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60921" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofilexKZGHD"
+1640051972691	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofilexKZGHD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60921/devtools/browser/85ea0bd2-482e-4d6f-a3bd-b7f69d4e47c3
+1640051975117	Marionette	INFO	Listening on port 60928
+1640051975443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/r1640051981081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-d1640051987897	Marionette	INFO	Stopped listening on port 60928
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640051988261	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatJavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640051990084	Marionette	INFO	Stopped listening on port 61019
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: https://ui-features.quickbase.com/trial-experience/0.0.531/main.a44fe216ed2edf4db192.js, line 136: NetworkError: A network error occurred.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002E,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640051990431	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1640052022033	geckodriver	INFO	Listening on 127.0.0.1:61146
+1640052025064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61147" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileKri5pl"
+1640052025449	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileKri5pl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61147/devtools/browser/d7bcc48b-4c40-4f01-9aca-e99d6ef79171
+1640052027669	Marionette	INFO	Listening on port 61153
+1640052027697	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640052155585	Marionette	INFO	Stopped listening on port 61153
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640052155769	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1640052157430	geckodriver	INFO	Listening on 127.0.0.1:61307
+1640052160460	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61308" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileVRlMqB"
+1640052160849	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileVRlMqB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61308/devtools/browser/a2d05767-4bee-44c2-b871-cb5a6c6fb44c
+1640052163102	Marionette	INFO	Listening on port 61315
+1640052163593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4150700338196473, line 63: uncaught exception: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4150700338196473, ca-pub-4480613266653781
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=157511, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.ht1640054483036	Marionette	INFO	Stopped listening on port 62043
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640054483231	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+t error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=137711&s=137812&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D58%263pid%3D&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156212&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D71%263pid%3D&gdpr=1&gdpr_consent=ABCFETYFDJLNBFCV&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=137711&s=137812&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D58%263pid%3D&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Frtb.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Frtb.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156319&userIdMacro=PM_UID&predirect=https%3A%2F%2Fe.serverbid.com%2Fudb%2F9969%2Fsync%2Fi.gif%3FpartnerId%3D4%26userId%3DPM_UID, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=159196&userIdMacro=PM_UID&gdpr=0&gdpr_consent=&predirect=https%3A%2F%2Flive.primis.tech%2Flive%2FliveCS.php%3Fsource%3Dexternal%26csuuid%3D61c13a56727e4%26pixel%3D%26advId%3D91%26advUuid%3DPM_UID%26gdpr%3D0%26gdpr_consent%3D, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://fw.adsafeprotected.com/rjss/bgd/818335/57176426/xbbe/creative/adj?p=APEucNWL00HHoJ8XT9CC_MbeZoKrWCPcKffMrIgYKxRWjzPp9CQHVKk&d=CnkAoCZ_4ASeEMimbnP9V-ltb0q3m244Yzd82hqAg-NbpUxeMUxBjGbLD_NqXkCdY9Z7cY04nqBGd73_huUgL_iPQWo7Lz14N3lEqlCJe02WTOSDrTlhh9E7vHL0VaGgGKiki7nmv66tVQHS2nZgy5opLor1U1LR63ejEpkSAKAmf-AzTZCSa1AT0DYPaPKdk8GA-UNiCAM57RKk_28PQvTPd_wZpYO7p-3hZEOZGGWBy-UC0MzpaAULdveYZuWn2EpqNvHT6WALlgrZUUTRZ0liqPv3AMBL7UnA4j6uZcnADT7nvKPispFVGZkWBv8kCaplvR_Z6nofLc930NZzpXAigjQZ2tyoT3ApkN08_wz6rP1cMMNWywMrqbtyjWZbloIvmM8ikG1KCNFzHgc8Uq931ocCHfGpcZn0dz6seF165q3znOvjjtP9rnJhrLFL3P_PE__t9cKgc9AwP7TrbblwITIG1HO0gbHOGXxNfeKxONcScVzzYTguVhNkOQS5bAfcXlwnExaEvDrBkolj3I_MZlf7QJDpbHBo43ELjeGZChBa-I6IlIJc_cf5hiYT-AdvKdPjS3Qkfx3e_PG_5JCBCL4QmY62Zdp5iYQTJpKDfzdLn2gmv5cbOQJPgl422_9JQW5S41wRpRLYZgsGA9qSzoAHAlH8zvF-4G38HiJyxWkCCNqGqxAWB3lzZWqLIwywY--3I-9dYuyyLgXaKHqMgAyImVXB85AtypDUWkobzCGGNQrl3Yg6pUqWVJALdMOO6Kfif21fBcJ1jZaHGJoY2lBU2hIEZwuZsQiXR8w7BX_UNuYFVjBMt25nFau8AYwBvmtYgfs60T4dhL3M_1uLdFyWBoRsFUUjNyMncAQd2nHQmKFycA5sJQLd3G0Vvu6ywRyy-CLNfVr0nDZgNrYgppFxK7TdlWdydF3PJ5qsqGG-P5hMf7Tku9jKP9rmEyITsKkVGy6M0viC3o4_DFCgcOrV_3PrlRh2N4lyqMb_wcSKS-n5O8Qhh2SD9czCQCDKCc242HfvG0g8_pC9d1Ca4nxYvWEIpkqqaBYrDtvpxtgZta5lhG9OJ9AtpxVArNfMTUHOgJrF9aXkPinlpSC1_xXYXuv5Rq9_b1QyPQIcmq1HaTQZpOdt6qDkd0jbYBxjkOepJJwYqpBKm-t3rxIJSMvjF2pJzWlYANmIIlgzZCSZqbppvdbjwVRW_3sgKTL8QQcIXhYZfTVTuZAnKf8KfF0DudCFMtDNWH3FQeEuQ6rsFzU8j91R_L7oVNvuf7GkkkgTwla_OigFVy7UxvAjg5jfmipYfAdXgZvuZMtiFdXp92vyr4BhKTf9765Lfrc9Nt0c-XiP1BMLYBDDsmXEpyRRAQh5hn2Y1SCbwOl7GQP7xs971EaA4T1gDCtS315P_gbtf64IBPGODqS1ZLrCUJdb4m0vsvTjmwgWLfVbB1UUVxXIpk15BDGea063NTY10tdqgXRaCk-g5uVXBFJlro1FMKMfGZ0o3a80WT6CE9b7EAdLC1BICzyHIzZT81zuHHipzejN_-f7HAld5oBPb_AIDccigRMD0vkV3RJVxYmQRtVrLWBoU34wpBoZYDXtOX-5Qh9GoUR3dTj4x1I2kn7_NVk5ZE54gef5v2soTzhI7CSpYRrH8AU1iGOomqrFwS_FFHxhmpN0rQEtnPmmpkorzZe24y8RW7yNf9HTuFz_51_lvlUu_6WOrSNUiBBd2r8qlaFT3PvbZnIaIEeQL8KRiFw10tvAVoaZYc9XdJpilLFhCK0-fP4bo_lkuLlV6BfpXBLbzTg1wPQLfbIhxLIbvmkedNtPNcBMZWi7-VT4nAha5S4r_VeEi5IroMFmrnbwkSYO6ak46VFlp6vKkF7E_ZbkVrWUDKNtzjMNcEIM4sj3hTU4UdawM_bM60_P4oi7v-uQaTahD8RrtF2ekRskMohOKD3zhRJEN4ZrGmi-a8PT8g73gzXEROppClTYy7q7aY8nNGoB4uk9ac-OSWlHW4bBp_SLML0I_MyPGJMFyFnEAvIwNqwK_KB7RZ0Piqx1FD-wNpARQMCtMJ9pfLxX8ootn59v0LSP6Ac1rXV_h71fIVuvxwdb1Ci80seqxBjaXtlAm_7E5zGYrf8Mv-muPAZKXLDusQ5RZNQB65-z7VUk0NEq7IMtV5vwqaYCzfms33oT1aXcDJDA3nPLxpeZ5Tajn8vRwE3DGgfGYh6TUYPn5oHdW5H_adrQZGDOJpc4F5IZDuBH9FRHUBVjiWuJrr3gTMiI60-i_DMKYUHNu5rR3sA2pLIc79gecPJKMevKZiuKvqgNdmsY2w8poUK3BXX0fz8u_HfDDMA5guq2Qa01bQ2NJb-tZNS2Ipak8cjo0v_RZ4H6A1YsXhBASlidhbHBjtqpnD6dDvel4osYmkPbEnVwXdx1qxLlVswO7X3CY2DuRM7B4GFtNLoQ6EsyddsWxOkRRFcjwo6MKk4M80NYYJrnh-hqbc8ARwYNVlFMVHED4hTAI40SfMV-tcigrGFy9fLdElKOvQZWa7otwym3oeO-WHGkFo41jNn5mf-SYcWKe1Ie80WyP6GSBrMtO3pQkcQUJylnDZg2Wc0vESG2IIH3is1c4pD5C26bf1dxrIrcSahiupeTBLcQsNV4iu-P_NLMDiwvJPt1xVHUBiPzEnzI7XPusCYyIORQcUL-cbRiHPkpfOQ-XeCdW8Z4WEl6jfki1ex7kpQc56xed79CeU-w6Es1g_i-_xJnjxD52GNss7ryYBiataXvcuO8Xazs5z9l2tdWSluRiR8I6Emxm6r65bxd52TTWnxragPhlTOnTsD521ibPba4LfSPx69BHm2OpYTxDLPE5JoSqOfythXcy0eHexX6g4TbzTTuoDdMhSTMO7CsPUbLW5H65a6t9Ct2C0WOexhKjkysjcc8-Ohjk4tQC9IJ5JS0vL4KxIZjjASP3v3OZ1A5N203X65iIJhYxNOotIH8eJ5C56thn4qJv3YruuLi6TttcdEPFbxgtAdka3e_PvnGIDGXiRLgahylGDCPl9W4jOyfu6GhYORxb9ER4sa7bNsIwqptS8qXblfuif8a5LtCklTc3fV0JMQcKevJtZ8u1V1tSYEHRJ_1lC18ZQ1uE-P5RWcQ90ss070MNueXrcrsxK1SzEKfTuQ6fuHClgejqUAnYrSGk12ul0to5o5IsKZIPbtIeHQ7E3tz8fpy-FKJpGdQLBYrZib_0zSwrj6g1gDCWvrub1tSWf-mmutm7WwkSvsAnxoWCAASEuRoNptodjMfq3M9ybHXbbxRZ2AB, line 1070: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.e-planning.net/esb/4/1/3fb8/69b1486c74a3b7dc/lotame.js, line 7: ReferenceError: _cc15238 is not defined
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Frtb.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=157511, line 1: ReferenceError: CommonMeta is not defined
+[Child 31608, MediaDecoderStateMachine #1] WARNING: Decoder=1fde0daf400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 31608, MediaDecoderStateMachine #1] WARNING: Decoder=1fde0daf400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3541
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pretagteam.com/_next/static/chunks/5f8bc3be22d9d49499780c95ccca0fe4efddd6d6.924beba610001a97b18c.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4480613266653781, line 63: uncaught exception: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4150700338196473, ca-pub-4480613266653781
+1640056103910	Marionette	INFO	Stopped listening on port 61315
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1640056104152	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+t" "54528" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileCVurzS"
+1640054181517	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileCVurzS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54528/devtools/browser/c898fed6-7b35-4a8e-abdf-31dde5e2dc63
+1640054183991	Marionette	INFO	Listening on port 54534
+1640054184305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640054202306	Marionette	INFO	Stopped listening on port 54534
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640054202660	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+nent returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640054200153	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1640054305333	geckodriver	INFO	Listening on 127.0.0.1:54702
+1640054308379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54703" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofile65pmWK"
+1640054308779	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofile65pmWK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54703/devtools/browser/dc1a830e-0e58-4568-a8d3-daea1b4c0e00
+1640054311246	Marionette	INFO	Listening on port 54710
+1640054311553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640054329567	Marionette	INFO	Stopped listening on port 54710
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640054329925	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1640054411698	geckodriver	INFO	Listening on 127.0.0.1:55157
+1640054414736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55158" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileLCtdNw"
+1640054415141	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileLCtdNw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55158/devtools/browser/a45e8b15-3800-422a-9624-cea2fbfa7ebd
+1640054417603	Marionette	INFO	Listening on port 55165
+1640054417909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640054440104	Marionette	INFO	Stopped listening on port 55165
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640054440451	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1640054479895	geckodriver	INFO	Listening on 127.0.0.1:55282
+1640054482938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55283" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileTWwEaB"
+1640054483413	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileTWwEaB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55283/devtools/browser/446a8e4e-50fe-4016-8aba-b273359a708b
+1640054485887	Marionette	INFO	Listening on port 55289
+1640054486120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640054572056	Marionette	INFO	Stopped listening on port 55289
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640054572408	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1640054849757	geckodriver	INFO	Listening on 127.0.0.1:55651
+1640054852787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55652" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileS9IDTK"
+1640054853189	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileS9IDTK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55652/devtools/browser/0992359d-1494-43ff-9b4d-ef94ef44cd3d
+1640054855480	Marionette	INFO	Listening on port 55659
+1640054855919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640054904053	Marionette	INFO	Stopped listening on port 55659
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640054904435	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+Observer]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640054872440	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1640054901410	geckodriver	INFO	Listening on 127.0.0.1:55788
+1640054904445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55789" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileUPfrDj"
+1640054904852	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileUPfrDj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55789/devtools/browser/5f9ab240-49c5-405f-b28c-e8ab1935b096
+1640054907030	Marionette	INFO	Listening on port 55797
+1640054907086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640054975877	Marionette	INFO	Stopped listening on port 55797
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640054976353	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1640055273838	geckodriver	INFO	Listening on 127.0.0.1:56141
+1640055276873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56142" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofilenap3t4"
+1640055277256	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofilenap3t4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56142/devtools/browser/2f1f23df-0bc4-4f11-a8dc-588c1af60a39
+1640055279760	Marionette	INFO	Listening on port 56149
+1640055280048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640055511795	Marionette	INFO	Stopped listening on port 56149
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+1640055512026	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+ecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640055564925	geckodriver	INFO	Listening on 127.0.0.1:56481
+1640055567953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56482" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileoiCSQr"
+1640055568328	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileoiCSQr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56482/devtools/browser/4d8da209-41cc-4068-9e61-f0469be7c010
+1640055570673	Marionette	INFO	Listening on port 56488
+1640055571092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640055637970	geckodriver	INFO	Listening on 127.0.0.1:56601
+1640055640996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56602" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileD9fbIc"
+1640055641385	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileD9fbIc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56602/devtools/browser/7bb02233-3cbb-4ef8-83fb-c02cddc67e83
+1640055643694	Marionette	INFO	Listening on port 56608
+1640055644127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640055732819	geckodriver	INFO	Listening on 127.0.0.1:56729
+1640055735847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56730" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileqQFk9A"
+1640055736230	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileqQFk9A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56730/devtools/browser/a7375b46-a711-4021-ae5f-01dbb1e84adb
+1640055738555	Marionette	INFO	Listening on port 56736
+1640055738984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640055858704	geckodriver	INFO	Listening on 127.0.0.1:56869
+1640055861734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56870" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileOVzjoC"
+1640055862130	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileOVzjoC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56870/devtools/browser/7276b959-10d8-4ecc-b0d3-ca77f9266652
+1640055864593	Marionette	INFO	Listening on port 56877
+1640055864871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640055962968	geckodriver	INFO	Listening on 127.0.0.1:57013
+1640055966018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57014" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofile2Dwm3C"
+1640055966404	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofile2Dwm3C\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57014/devtools/browser/bc666a8b-0b3a-479e-8e7e-00a49dc6453d
+1640055968722	Marionette	INFO	Listening on port 57020
+1640055969160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://davidyost-7821.quickbase.com"
+1640055994700	Marionette	INFO	Stopped listening on port 57020
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640055995056	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1640056015770	geckodriver	INFO	Listening on 127.0.0.1:57118
+1640056018799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57119" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileSmiv7l"
+1640056019199	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileSmiv7l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57119/devtools/browser/6d51f362-fa8c-40bc-9ace-d72be61cdb99
+1640056021325	Marionette	INFO	Listening on port 57125
+1640056021538	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640056043309	geckodriver	INFO	Listening on 127.0.0.1:57218
+1640056046323	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57219" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofilebwayA0"
+1640056046703	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofilebwayA0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57219/devtools/browser/c48e21ed-409a-41e6-a346-3c18bfdd4da6
+1640056049161	Marionette	INFO	Listening on port 57225
+1640056049455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640056109654	geckodriver	INFO	Listening on 127.0.0.1:57308
+1640056112682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57309" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileFbjCWR"
+1640056113054	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileFbjCWR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57309/devtools/browser/8efa6b88-7ab3-4532-b283-06c620b79f8c
+1640056115517	Marionette	INFO	Listening on port 57315
+1640056115816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640056147947	Marionette	INFO	Stopped listening on port 57315
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640056148292	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+agmas is deprecated. Use //# instead
+1640056145411	Marionette	INFO	Stopped listening on port 57420
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640056145789	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1640056153462	geckodriver	INFO	Listening on 127.0.0.1:57484
+1640056156496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57485" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofilefQhXAQ"
+1640056156875	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofilefQhXAQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57485/devtools/browser/5ff65895-982b-42e4-b134-9a50def064a9
+1640056159083	Marionette	INFO	Listening on port 57492
+1640056159145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640056179828	geckodriver	INFO	Listening on 127.0.0.1:57582
+1640056182853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57583" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofiletzs9W3"
+1640056183233	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofiletzs9W3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57583/devtools/browser/11c40356-9cd3-4140-867c-c48503709b69
+1640056185553	Marionette	INFO	Listening on port 57593
+1640056185985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640056366928	geckodriver	INFO	Listening on 127.0.0.1:57940
+1640056369956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57941" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileuQGfJ2"
+1640056370344	Marionette	INFO	Marionette enabled
+1640056511747	geckodriver	INFO	Listening on 127.0.0.1:58036
+1640056514775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58037" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofile3JNtq9"
+1640056515156	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofile3JNtq9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58037/devtools/browser/9fadfea9-f741-4729-a60d-04cd9ccdb395
+1640056517597	Marionette	INFO	Listening on port 58043
+1640056517909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640056541740	Marionette	INFO	Stopped listening on port 58043
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too la1640056544964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58140" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileChbvwB"
+1640056545351	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileChbvwB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58140/devtools/browser/95a0e0ab-bcfd-4638-990d-0494ce13f2f0
+1640056547618	Marionette	INFO	Listening on port 58147
+1640056548097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640056548597	Marionette	INFO	Stopped listening on port 58147
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640056548943	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1640056551023	geckodriver	INFO	Listening on 127.0.0.1:58185
+1640056554051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58186" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileTdTqoS"
+1640056554417	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileTdTqoS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58186/devtools/browser/c88bc3ab-22c6-4afb-85aa-d99c2107ae62
+1640056556825	Marionette	INFO	Listening on port 58193
+1640056557184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640056574222	Marionette	INFO	Stopped listening on port 58193
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640056574573	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1640056576266	geckodriver	INFO	Listening on 127.0.0.1:58284
+1640056579281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58285" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofilegx48mi"
+1640056579665	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofilegx48mi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58285/devtools/browser/47e89baf-c1fe-4068-af61-c031e7f97cdc
+1640056581957	Marionette	INFO	Listening on port 58291
+1640056582443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640057229551	geckodriver	INFO	Listening on 127.0.0.1:50320
+1640057232600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50321" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofilePIVdHE"
+1640057232985	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofilePIVdHE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50321/devtools/browser/c27460bf-eb09-4a98-bce0-ad412b509a7b
+1640057235497	Marionette	INFO	Listening on port 50328
+1640057235764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640057272786	Marionette	INFO	Stopped listening on port 50328
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640057273163	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1640057274939	geckodriver	INFO	Listening on 127.0.0.1:50426
+1640057277974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50427" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileJiJRVl"
+1640057278376	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileJiJRVl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50427/devtools/browser/bd79c615-a1ed-4907-9d27-d0b209b4e037
+1640057280649	Marionette	INFO	Listening on port 50434
+1640057281147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://ui-features.quickbase.com/table-report/0.0.685/main.589c63b5aba72a217701.js, line 155: Error: Request aborted
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1640058506271	Marionette	INFO	Stopped listening on port 50434
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640058506426	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640057678853	Marionette	INFO	Stopped listening on port 50755
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640057679213	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+agmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640057674459	Marionette	INFO	Stopped listening on port 50852
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640057674820	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1640057698695	geckodriver	INFO	Listening on 127.0.0.1:50978
+1640057701735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50979" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileNC9DwE"
+1640057702111	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileNC9DwE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50979/devtools/browser/68bc8b24-eca8-4b6e-8404-c886bb389637
+1640057704521	Marionette	INFO	Listening on port 50985
+1640057704890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640057731065	Marionette	INFO	Stopped listening on port 50985
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640057731425	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1640057756328	geckodriver	INFO	Listening on 127.0.0.1:51110
+1640057759364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51111" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileg3QoMf"
+1640057759743	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileg3QoMf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51111/devtools/browser/232b2abb-c5db-4cf5-bd2c-00726d39e532
+1640057762188	Marionette	INFO	Listening on port 51118
+1640057762551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640057793369	Marionette	INFO	Stopped listening on port 51118
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640057793714	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1640057808003	geckodriver	INFO	Listening on 127.0.0.1:51225
+1640057811039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51226" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileBdtp85"
+1640057811422	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileBdtp85\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51226/devtools/browser/5486587d-506f-442c-a2f4-6137ee1226de
+1640057813806	Marionette	INFO	Listening on port 51233
+1640057814197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640057857207	Marionette	INFO	Stopped listening on port 51233
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640057857609	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1640058315986	geckodriver	INFO	Listening on 127.0.0.1:51625
+1640058319040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51626" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileVCUMO0"
+1640058319424	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileVCUMO0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51626/devtools/browser/5d2c2791-9abc-4772-9e27-6b88051c6c48
+1640058321732	Marionette	INFO	Listening on port 51633
+1640058322213	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640058347533	Marionette	INFO	Stopped listening on port 51633
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640058347888	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1640058584663	geckodriver	INFO	Listening on 127.0.0.1:51882
+1640058587708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51883" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofilevLO9ia"
+*** You are running in headless mode.
+1640058588093	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofilevLO9ia\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51883/devtools/browser/37cdc821-571d-47f5-8214-2679b2b285cc
+1640058589296	Marionette	INFO	Listening on port 51891
+1640058589759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640058615454	geckodriver	INFO	Listening on 127.0.0.1:51982
+1640058618498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51983" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileWSiGwu"
+*** You are running in headless mode.
+1640058618899	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileWSiGwu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51983/devtools/browser/beedff36-c48a-4f31-af9c-21087f0a0cfc
+1640058619912	Marionette	INFO	Listening on port 51989
+1640058620041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofileWSiGwu\thumbnails) because it does not exist
+1640058641607	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofilekLZ3jj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52079/devtools/browser/6265d611-12c7-43d3-bb65-b57182147325
+1640058642700	Marionette	INFO	Listening on port 52085
+1640058642759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\avery\AppData\Local\Temp\rust_mozprofilekLZ3jj\thumbnails) because it does not exist
+" "52718" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofile37UYaP"
+1640059611369	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofile37UYaP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52718/devtools/browser/3439be9d-fe09-4817-a538-296d40176236
+1640059613672	Marionette	INFO	Listening on port 52725
+1640059614138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640059640665	geckodriver	INFO	Listening on 127.0.0.1:52834
+1640059643688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52835" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileRR8hlb"
+1640059644066	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileRR8hlb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52835/devtools/browser/400769d8-d663-4680-8c1f-f2ccdf328bac
+1640059646356	Marionette	INFO	Listening on port 52841
+1640059646831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640059801682	geckodriver	INFO	Listening on 127.0.0.1:52987
+1640059804745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52988" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofile2JD1Bi"
+1640059805119	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofile2JD1Bi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52988/devtools/browser/d257bd36-a7d3-458b-9cb7-b12f68a4b09d
+1640059807475	Marionette	INFO	Listening on port 52994
+1640059807909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640059829612	Marionette	INFO	Stopped listening on port 52994
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640059829975	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1640059830418	geckodriver	INFO	Listening on 127.0.0.1:53091
+1640059833468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53092" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileULHuXP"
+1640059833859	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileULHuXP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53092/devtools/browser/fee2b2cc-22cb-465a-9223-8ca4d2e2521e
+1640059836257	Marionette	INFO	Listening on port 53098
+1640059836620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640059895142	geckodriver	INFO	Listening on 127.0.0.1:53162
+1640059898181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53163" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileXemDU3"
+1640059898568	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileXemDU3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53163/devtools/browser/6cd57b3d-e2d5-49ed-a6da-b1b05f00134f
+1640059900985	Marionette	INFO	Listening on port 53170
+1640059901336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640059923831	geckodriver	INFO	Listening on 127.0.0.1:53264
+1640059926846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53265" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileJTrwEb"
+1640059927229	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileJTrwEb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53265/devtools/browser/bfed1698-89ac-482a-94be-3bd05b26aef6
+1640059929479	Marionette	INFO	Listening on port 53271
+1640059929979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640060070536	geckodriver	INFO	Listening on 127.0.0.1:53424
+1640060073578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53425" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileOFBZ6a"
+1640060073987	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileOFBZ6a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53425/devtools/browser/a156e4ef-4ef8-483c-b29d-c015d50cb24b
+1640060076527	Marionette	INFO	Listening on port 53431
+1640060076764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 287: TypeError: InspectorUtils.setContentState: Argument 1 is not an object.
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640060095964	Marionette	INFO	Stopped listening on port 53431
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640060096358	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1640060100829	geckodriver	INFO	Listening on 127.0.0.1:53533
+1640060103888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53534" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileBlD5cz"
+1640060104259	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileBlD5cz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53534/devtools/browser/8474fa5c-3b45-4de2-9df5-dfa4d680fb3d
+1640060106677	Marionette	INFO	Listening on port 53549
+1640060107044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1640095443036	Marionette	INFO	Stopped listening on port 53549
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640095443170	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640060283413	Marionette	INFO	Stopped listening on port 53738
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640060283758	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1640060292598	geckodriver	INFO	Listening on 127.0.0.1:53837
+1640060295636	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53838" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileW3k613"
+1640060296016	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileW3k613\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53838/devtools/browser/aec37d97-26a3-42bb-9c7e-d773d06c9171
+1640060298455	Marionette	INFO	Listening on port 53844
+1640060298790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640060321320	Marionette	INFO	Stopped listening on port 53844
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640060321674	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1640060324551	geckodriver	INFO	Listening on 127.0.0.1:53940
+1640060327581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53941" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofile8fFd0z"
+1640060327956	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofile8fFd0z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53941/devtools/browser/4d3af2ce-eb49-49ce-b1b1-826b416bd6fc
+1640060330379	Marionette	INFO	Listening on port 53948
+1640060330737	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640060483581	geckodriver	INFO	Listening on 127.0.0.1:54054
+1640060486624	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54055" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofile3XfZ3r"
+1640060486989	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofile3XfZ3r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54055/devtools/browser/02815021-0d2d-4359-8c3d-2eb4602a29e0
+1640060489407	Marionette	INFO	Listening on port 54061
+1640060489796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640060506374	Marionette	INFO	Stopped listening on port 54061
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640060506724	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1640060511429	geckodriver	INFO	Listening on 127.0.0.1:54156
+1640060514460	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54157" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileL1BhoI"
+1640060514829	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileL1BhoI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54157/devtools/browser/4ef751ec-8dfb-4ee1-b71c-8233aab1350f
+1640060517047	Marionette	INFO	Listening on port 54163
+1640060517134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640060541113	geckodriver	INFO	Listening on 127.0.0.1:54253
+1640060544161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54254" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofilejgTOjo"
+1640060544555	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofilejgTOjo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54254/devtools/browser/3baf2bb3-b58a-46a0-baf7-6b939d267d63
+1640060546845	Marionette	INFO	Listening on port 54261
+1640060547334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/cddbc10-10/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640060568416	Marionette	INFO	Stopped listening on port 54261
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640060568776	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1640060572946	geckodriver	INFO	Listening on 127.0.0.1:54355
+1640060575964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54356" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileeeUaoK"
+1640060576338	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileeeUaoK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54356/devtools/browser/eea59ded-6dfb-4e31-b73f-67d36d8ac2d7
+1640060578621	Marionette	INFO	Listening on port 54373
+1640060579126	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/7b660c1-7/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/cddbc10-10/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1640095442104	Marionette	INFO	Stopped listening on port 54373
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+1640095442241	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+pt warning: https://assets-cflare.quickbasecdn.net/res/cddbc10-10/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640093598820	geckodriver	INFO	Listening on 127.0.0.1:65410
+1640093601866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65411" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofilezNK3FR"
+1640093602256	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofilezNK3FR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65411/devtools/browser/16492455-a950-4e2f-b1aa-a3c0126206b3
+1640093604402	Marionette	INFO	Listening on port 65417
+1640093604545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/cddbc10-10/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/cddbc10-10/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/cddbc10-10/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets-cflare.quickbasecdn.net/res/cddbc10-10/js/_packed/common.packed.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1640093627347	Marionette	INFO	Stopped listening on port 65417
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640093627704	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1640093629501	geckodriver	INFO	Listening on 127.0.0.1:65516
+1640093632531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65517" "-no-remote" "-profile" "C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileeRzSzi"
+1640093632939	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\avery\\AppData\\Local\\Temp\\rust_mozprofileeRzSzi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65517/devtools/browser/c6797cba-449f-4a8a-b0de-09e89a7e5f3e
+1640093635367	Marionette	INFO	Listening on port 65523
+1640093635718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
