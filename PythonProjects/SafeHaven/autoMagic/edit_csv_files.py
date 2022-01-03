@@ -3,9 +3,9 @@ import csv
 
 
 def edit_csv_file(read_file, write_file, state="RI"):
-    header = ['Last Name','QB Prospect ID','State','First Name','Address','City','Zip','Property Value','Closing Date'
-        ,'# 0f Visits','Last Visit','Visit Date','LVS','Appointment Date & TIme','Notes','Notes','Unix Code',
-              'Visit Rep','Date Created','Market','Visit - Property Owner 1','Visit - Property Owner 2','Lead Source']
+    header = ['Last Name','QB Prospect ID','State','First Name','Address','City','Zip','Property Value','Closing Date',
+        'Visit Rep','# 0f Visits','Last Visit','Visit Date','LVS','Appointment Date & TIme','Notes','Notes','Unix Code',
+        'Date Created','Market','Visit - Property Owner 1','Visit - Property Owner 2','Lead Source']
 
     read = open(read_file, "r", encoding='ISO-8859-1')
     write = open(write_file, "w", encoding='ISO-8859-1')

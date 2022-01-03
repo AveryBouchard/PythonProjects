@@ -1,10 +1,7 @@
 from selenium.webdriver import Chrome
-from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 import time
 from PythonProjects.SafeHaven.autoMagic.edit_csv_files import edit_csv_file
 import os
@@ -33,6 +30,9 @@ def main():
         edit_csv_file(find_newest_file(), save_file_name(rep_name_input), get_state(rep_name_input))
 
         upload_to_sales_rabbit(rep_name_input)
+
+    driver.close()
+    driver.quit()
 
 
 def login_to_quickbase():
@@ -121,7 +121,7 @@ def save_file_name(rep):
 
 
 def find_newest_file():
-    folder_path = r'C:/Users/avery/Downloads'
+    folder_path = r'C:/Users/avery/Downloads/'
     os.chdir(folder_path)
     newest_file = sorted(os.listdir(os.getcwd()), key=os.path.getmtime)[-1]
     return newest_file
@@ -146,7 +146,7 @@ def upload_to_sales_rabbit(rep):
 
     upload_file = find_newest_file()
     choose_file_button = driver.find_element(By.NAME, "csv")
-    file_folder = "C:/Users/avery/Downloads"
+    file_folder = "C:/Users/avery/Downloads/"
     choose_file_button.send_keys(file_folder + upload_file)
 
     drop_down_menu = Select(driver.find_element(By.NAME, "importType"))

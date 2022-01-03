@@ -17,6 +17,8 @@ reps_dict = {
         "Quintin Botelho 64588", "file_name": f"Q NB {month}-{day}", "state": "MA"},
     "wilson": {"rep": "wilson", "zips": "02302 02301", "lead_owner": "Wilson Delaleu 66073", "file_name":
         f"Wilson Brock {month}-{day}", "state": "MA"},
-    "ian m": {"rep": "ian m", "zips": "02720 02721 02723 02724 02725 02726 02791 02790", "lead_owner":
-        "Ian McKinnon 65063", "file_name": f"IanM FR {month}-{day}", "state": "MA"}
+    "ruben": {"rep": "ruben", "zips": "02720 02721 02723 02724 02725 02726 02791 02790", "lead_owner":
+        "Ruben Martins 68653", "file_name": f"Ruben FR {month}-{day}", "state": "MA"},
+    "brennen": {"rep": "brennen", "zips": "02302", "lead_owner":
+        "Brennen Rosa 69081", "file_name": f"Brennen Brck {month}-{day}", "state": "MA"}
 }
